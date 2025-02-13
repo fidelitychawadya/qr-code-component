@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqr_code_project=self.webpackChunkqr_code_project||[]).push([[461],{50:()=>{window.global=window}},e=>{e(e.s=50)}]);
